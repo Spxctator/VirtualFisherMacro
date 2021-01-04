@@ -3,7 +3,7 @@
 
 ## Features
 Easy to use and modify.\
-Auto detects verify antibot verify, both types, math and captcha, then plays a beep sound and stops the script.
+Auto detects antibot prompts, both types, math and captcha, then plays a beep sound and pauses the script.
 
 ## How To Use
 [Alt + O] Start\
