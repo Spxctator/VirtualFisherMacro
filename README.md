@@ -6,7 +6,7 @@
 - Auto detects anti-bot prompts, [math](https://i.imgur.com/v7VV7mA.png) and [captchas](https://i.imgur.com/JzQaYLS.png).
   - Plays a sound back to the user.
   - Pauses the script but does not answer automatically.
-- TBC: Random yet efficient delay timer to mimic human interaction.
+- Random yet efficient delay timer to mimic human interaction.
 
 ## How To Use
 1. Download [AutoHotKey](https://www.autohotkey.com/download/) and the AutoFish.ahk file.
