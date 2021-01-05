@@ -16,3 +16,5 @@
 > [Alt + O] Start\
 > [Alt + P] Pause/Resume\
 > [Esc] Close
+
+*Highly recommended to use in a private channel so the script detects correctly.*
