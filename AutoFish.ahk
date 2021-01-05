@@ -10,9 +10,9 @@ Cooldown := 3250 ; change according to your cooldown
 
 SleepMin := Cooldown - 200
 SleepMax := Cooldown + 1000
+CoordMode, Pixel, Window
 
 !o::
-CoordMode, Pixel, Window
 Loop
 {
 PixelGetColor, DetectMath, 700, 850
