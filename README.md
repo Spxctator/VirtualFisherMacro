@@ -1,15 +1,18 @@
-# VirtualFisherMacro
+# Virtual Fisher Macro
 **An AutoHotKey script to automatically fish on the Virtual Fisher Discord bot.**
 
 ## Features
-Easy to use and modify.\
-Auto detects antibot prompts, both types, math and captcha, then plays a beep sound and pauses the script.
+- Easy to use and configure.
+- Auto detects anti-bot prompts, [math](https://i.imgur.com/v7VV7mA.png) and [captchas](https://i.imgur.com/JzQaYLS.png).
+  - Plays a sound back to the user.
+  - Pauses the script but does not answer automatically.
+- TBC: Random yet efficient delay timer to mimic human interaction.
 
 ## How To Use
-[Alt + O] Start\
-[Alt + P] Pause/Resume\
-[Esc] Close
-
-## Editing The Script
-Open the AutoFish.ahk file and edit it according to your needs. Labels are included inside the file.\
-You can run the script without compiling it as it as.
+1. Download [AutoHotKey](https://www.autohotkey.com/download/) and the AutoFish.ahk file.
+2. Edit the file and configure accordingly.
+3. Run the file, it will appear in windows system tray.
+4. You're set!
+> [Alt + O] Start\
+> [Alt + P] Pause/Resume\
+> [Esc] Close
