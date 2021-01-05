@@ -2,7 +2,7 @@
 **An AutoHotKey script to automatically fish on the Virtual Fisher Discord bot.**
 
 ## Features
-- Easy to use and configure.
+- Easy to use and configure, just two lines.
 - Auto detects anti-bot prompts, [math](https://i.imgur.com/v7VV7mA.png) and [captchas](https://i.imgur.com/JzQaYLS.png).
   - Plays a sound back to the user.
   - Pauses the script but does not answer automatically.
